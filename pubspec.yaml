@@ -5,7 +5,7 @@ homepage:
 
 environment:
   sdk: ^3.8.1
-  flutter: '>=3.3.0'
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
@@ -38,7 +38,7 @@ flutter:
         package: com.example.soundpool
         pluginClass: SoundpoolPlugin
       ios:
-        pluginClass: SoundpoolPlugin
+        pluginClass: SwiftSoundpoolPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
