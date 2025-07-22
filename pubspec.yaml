@@ -35,7 +35,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.soundpool
+        package: com.bgpworks.soundpool
         pluginClass: SoundpoolPlugin
       ios:
         pluginClass: SwiftSoundpoolPlugin

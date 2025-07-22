@@ -1,4 +1,4 @@
-package com.example.soundpool
+package com.bgpworks.soundpool
 
 import android.content.Context
 import android.media.AudioAttributes

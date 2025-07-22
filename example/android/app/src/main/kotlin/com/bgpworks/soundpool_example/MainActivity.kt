@@ -1,4 +1,4 @@
-package com.example.soundpool_example
+package com.bgpworks.soundpool_example
 
 import io.flutter.embedding.android.FlutterActivity
 
